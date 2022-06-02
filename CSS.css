@@ -1,0 +1,14 @@
+#demo{
+    text-align: center;
+    border: 2px solid white;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+#title{
+color: white;
+text-align: center;
+}
